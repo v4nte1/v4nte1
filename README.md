@@ -38,7 +38,7 @@ Ben Yönetim Bilişim Sistemleri (YBS) 2. sınıf öğrencisiyim. Yazılım geli
 ### 📊 GitHub Trophies
 🎨 Profiline görsel bir hava katmak için dinamik başarı kupaları:
 
-[![İlayda's github trophies](https://github-profile-trophy.vercel.app/?username=KENDI_GITHUB_KULLANICI_ADIN&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![İlayda's github trophies](https://github-profile-trophy.vercel.app/?username=v4nte1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -46,7 +46,7 @@ Ben Yönetim Bilişim Sistemleri (YBS) 2. sınıf öğrencisiyim. Yazılım geli
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=v4nte1&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KENDI_GITHUB_KULLANICI_ADIN&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v4nte1&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 ---
