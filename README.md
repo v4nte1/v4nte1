@@ -30,8 +30,6 @@ Ben Yönetim Bilişim Sistemleri (YBS) 2. sınıf öğrencisiyim. Yazılım geli
 
 * **🏆 Government AI & Informatics Hackathon (2025) - 3rd Place**
     * Takımımla birlikte katıldığımız yapay zeka ve bilişim odaklı hackathonda Türkiye genelinde 3.lük derecesi elde ettik.
-* **📱 Emanetcin Application**
-    * Geliştirme süreçlerini yürüttüğüm ve ilk sosyal media pazarlama/lansman aşamasını başarıyla başlattığım yenilikçi projem.
 * **🌐 Network Security & Pentest Studies**
     * WPA/WPA2 protokolleri, ağ güvenliği analizi, RT5370 ve donanım tabanlı penetrasyon testleri üzerine yaptığım pratik çalışmalar.
 
