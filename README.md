@@ -1,6 +1,6 @@
 # Hi there, I'm İlayda! 👋
 
-### 🚀 Management Information Systems Student & Aspiring Software Developer
+### Management Information Systems Student & Aspiring Software Developer
 I am a 2nd-year Management Information Systems (MIS) student. I am deeply passionate about software development, database management, and cyber security, actively building projects to expand my skills in these fields.
 
 - 🎯 **Current Focus:** Cyber security, database management, and modern software architectures.
