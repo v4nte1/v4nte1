@@ -35,12 +35,6 @@ Ben Yönetim Bilişim Sistemleri (YBS) 2. sınıf öğrencisiyim. Yazılım geli
 
 ---
 
-### 📊 GitHub Trophies
-🎨 Profiline görsel bir hava katmak için dinamik başarı kupaları:
-
-[![İlayda's github trophies](https://github-profile-trophy.vercel.app/?username=v4nte1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ### 📈 GitHub Stats
 
