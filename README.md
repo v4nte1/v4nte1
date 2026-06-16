@@ -1,11 +1,11 @@
 # Hi there, I'm İlayda! 👋
 
 ### 🚀 Management Information Systems Student & Aspiring Software Developer
-Ben Yönetim Bilişim Sistemleri (YBS) 2. sınıf öğrencisiyim. Yazılım geliştirme, veritabanı yönetimi ve siber güvenlik alanlarına ilgi duyuyor, kendimi bu alanlarda geliştirmek için projeler üretiyorum.
+I am a 2nd-year Management Information Systems (MIS) student. I am deeply passionate about software development, database management, and cyber security, actively building projects to expand my skills in these fields.
 
-- 🎯 **Current Focus:** Siber güvenlik, veri tabanları ve modern yazılım mimarileri.
-- 💼 **Looking For:** Siber güvenlik ve teknoloji firmalarında yaz stajı fırsatları.
-- 🌱 **Learning:** Ağ güvenliği, sızma testleri ve gelişmiş algoritmalar.
+- 🎯 **Current Focus:** Cyber security, database management, and modern software architectures.
+- 💼 **Looking For:** Summer internship opportunities at cyber security and technology firms.
+- 🌱 **Learning:** Network security, penetration testing, and advanced algorithms.
 
 ---
 
@@ -29,12 +29,11 @@ Ben Yönetim Bilişim Sistemleri (YBS) 2. sınıf öğrencisiyim. Yazılım geli
 ### 🏆 Awards & Featured Projects
 
 * **🏆 Government AI & Informatics Hackathon (2025) - 3rd Place**
-    * Takımımla birlikte katıldığımız yapay zeka ve bilişim odaklı hackathonda Türkiye genelinde 3.lük derecesi elde ettik.
+    * Achieved 3rd place nationwide with my team in an AI and informatics-focused hackathon.
 * **🌐 Network Security & Pentest Studies**
-    * WPA/WPA2 protokolleri, ağ güvenliği analizi, RT5370 ve donanım tabanlı penetrasyon testleri üzerine yaptığım pratik çalışmalar.
+    * Hands-on research and practical studies on WPA/WPA2 protocols, network security analysis, RT5370, and hardware-based penetration testing.
 
 ---
-
 
 ### 📈 GitHub Stats
 
@@ -47,7 +46,7 @@ Ben Yönetim Bilişim Sistemleri (YBS) 2. sınıf öğrencisiyim. Yazılım geli
 
 ### 🤝 Let's Connect!
 
-Eğlenceli projelerde birlikte çalışmak veya siber güvenlik üzerine konuşmak için bana ulaşabilirsiniz:
+Feel free to reach out to me to collaborate on exciting projects or just to chat about cyber security:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ilayda-öztan-b6196b325" target="_blank">
